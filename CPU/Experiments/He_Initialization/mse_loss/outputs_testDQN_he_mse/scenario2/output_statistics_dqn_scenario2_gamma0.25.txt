@@ -1,0 +1,3 @@
+NumImmovableConstraints	NumMovableConstraints	AverageImmovableTrainingLoss	AverageMovableTrainingLoss	AverageImmovableCSPAchieved	AverageMovableCSPAchieved	AverageCumulativeRewardImmovable	AverageCumulativeRewardMovable	AverageScore	ProportionSatisfyingThreshold	MinSatisfactionThreshold
+
+3	6	tensor(0.0586, grad_fn=<DivBackward0>)	tensor(0.0545, grad_fn=<DivBackward0>)	0.3904761904761896	0.8346938775510211	0.8672629220145089	1.2949099170918368	0.5237414965986389	0.0	0.8
